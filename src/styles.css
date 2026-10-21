@@ -204,6 +204,12 @@
   .lag-3 { animation-delay: 2s; }
   .lag-4 { animation-delay: 0.7s; }
   .bob-flip { animation: bobflip 2.6s ease-in-out infinite; }
+  .cover-heart {
+    display: block;
+    width: min(100%, 22rem);
+    height: auto;
+    aspect-ratio: 100 / 92;
+  }
   .cover-title {
     color: var(--color-on-primary);
     text-shadow: 0 4px 0 var(--color-primary-deep);

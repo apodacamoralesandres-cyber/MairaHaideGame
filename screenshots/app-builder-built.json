@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Maria Haide Idle Love",
+      "hasCanvas": false,
+      "bodyTextLen": 125,
+      "bodyTextHash": "87da51075b754abeac1b4dc026f96876c7a1efc596f98dd69c6dd00a7ed8175f",
+      "bodyTextPrefix": "Maria Haide Idle love Un juego dedicado a María Haide Jugar Cont",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Maria Haide Idle Love",
+      "hasCanvas": false,
+      "bodyTextLen": 125,
+      "bodyTextHash": "87da51075b754abeac1b4dc026f96876c7a1efc596f98dd69c6dd00a7ed8175f",
+      "bodyTextPrefix": "Maria Haide Idle love Un juego dedicado a María Haide Jugar Cont",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

@@ -368,9 +368,9 @@ export function IdleLove() {
       </div>
 
       {screen === "cover" ? (
-        <main className="relative z-10 mx-auto flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-4 px-4 py-10 text-center">
-          <div className="relative grid w-full max-w-lg place-items-center">
-            <HeartShape className="w-full" />
+        <main className="relative z-10 mx-auto flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-5 px-4 py-8 text-center">
+          <div className="relative grid place-items-center">
+            <HeartShape className="cover-heart" />
             <div className="absolute inset-0 grid place-items-center px-8 pb-6">
               <h1 className="cover-title font-display text-4xl leading-none font-extrabold sm:text-6xl">
                 Maria Haide

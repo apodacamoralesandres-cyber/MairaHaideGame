@@ -1,7 +1,7 @@
 import { i as __toESM } from "../_runtime.mjs";
 import { K as require_react, b as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
 import { a as RotateCcw, c as Infinity$1, d as BookOpen, i as Settings, l as Heart, o as PawPrint, r as Sparkles, s as MousePointerClick, t as Trophy, u as Cat } from "../_libs/lucide-react.mjs";
-//#region node_modules/.nitro/vite/services/ssr/assets/routes-J2jUM60F.js
+//#region node_modules/.nitro/vite/services/ssr/assets/routes-Df9xigmJ.js
 var import_react = /* @__PURE__ */ __toESM(require_react());
 var import_jsx_runtime = require_jsx_runtime();
 var michi_default = "/assets/michi-DeJZNUhs.jpg";
@@ -720,11 +720,11 @@ function IdleLove() {
 				]
 			}),
 			screen === "cover" ? /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("main", {
-				className: "relative z-10 mx-auto flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-4 px-4 py-10 text-center",
+				className: "relative z-10 mx-auto flex min-h-screen w-full max-w-3xl flex-col items-center justify-center gap-5 px-4 py-8 text-center",
 				children: [
 					/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
-						className: "relative grid w-full max-w-lg place-items-center",
-						children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(HeartShape, { className: "w-full" }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
+						className: "relative grid place-items-center",
+						children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)(HeartShape, { className: "cover-heart" }), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("div", {
 							className: "absolute inset-0 grid place-items-center px-8 pb-6",
 							children: /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("h1", {
 								className: "cover-title font-display text-4xl leading-none font-extrabold sm:text-6xl",
